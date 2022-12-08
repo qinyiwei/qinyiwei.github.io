@@ -12,11 +12,11 @@ Hello! I am a research assistant at Carnegie Mellon university, working with [Gr
 
 # Publications
 
--[T5SCORE: Discriminative Fine-tuning of Generative Evaluation Metrics](https://drive.google.com/drive/folders/12yaTeM8V7s9NAj2glSNGEsJnw1LRNmd-?usp=share_link)\
+-[T5SCORE: Discriminative Fine-tuning of Generative Evaluation Metrics](https://drive.google.com/drive/folders/1RtntDVzivcW7ny94z9KSKG-tcDLoZ31Z?usp=share_link)\
 **Yiwei Qin**, Graham Neubig, Pengfei Liu\
 Preprint
 
--[Searching for Effective Tuning Strategies for Multilingual Summarization](https://drive.google.com/drive/folders/12yaTeM8V7s9NAj2glSNGEsJnw1LRNmd-?usp=share_link)\
+-[Searching for Effective Tuning Strategies for Multilingual Summarization](https://drive.google.com/drive/folders/1RtntDVzivcW7ny94z9KSKG-tcDLoZ31Z?usp=share_link)\
 **Yiwei Qin**, Graham Neubig, Pengfei Liu\
 Preprint
 
