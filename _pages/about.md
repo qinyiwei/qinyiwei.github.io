@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Bio"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -22,4 +22,4 @@ Preprint
 
 -[Automating Claim Construction in Patent Applications: The CMUmine Dataset](https://aclanthology.org/2021.nllp-1.21.pdf)\
 Ozan Tonguz, **Yiwei Qin**, Yimeng Gu, and Hyun Hannah Moon\
-In Proceedings of the Natural Legal Language Processing Workshop 2021, pages 205–209, Punta Cana, Dominican Republic. Association for Computational Linguistics.
+In Proceedings of the _Natural Legal Language Processing Workshop_, 2021.
