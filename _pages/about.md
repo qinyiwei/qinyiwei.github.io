@@ -13,11 +13,11 @@ I am currently a research assistant at GAIR Lab at Shanghai Jiao Tong University
 
 
 # Publications
--[OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI](https://arxiv.org/abs/2406.12753)
+-[OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI](https://arxiv.org/abs/2406.12753)\
 Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, Yuqing Yang, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, Steffi Chern, **Yiwei Qin**, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu \
 Submitted to _NeurIPS 2024 Track Datasets and Benchmarks_
 
--[InFoBench: Evaluating Instruction Following Ability in Large Language Models](https://arxiv.org/abs/2401.03601)
+-[InFoBench: Evaluating Instruction Following Ability in Large Language Models](https://arxiv.org/abs/2401.03601)\
 **Yiwei Qin**, Kaiqiang Song, Yebowen Hu, Wenlin Yao, Sangwoo Cho, Xiaoyang Wang, Xuansheng Wu, Fei Liu, Pengfei Liu, Dong Yu \
 Accepted by _the ACL Findings 2024_
 
