@@ -35,7 +35,7 @@ EMNLP Findings, 2023
 
 -[Searching for Effective Tuning Strategies for Multilingual Summarization](https://arxiv.org/abs/2212.05740)\
 **Yiwei Qin**, Graham Neubig, Pengfei Liu\
-arXiv, 2023
+arXiv, 2022
 
 -[Automating Claim Construction in Patent Applications: The CMUmine Dataset](https://aclanthology.org/2021.nllp-1.21.pdf)\
 Ozan Tonguz, **Yiwei Qin**, Yimeng Gu, Hyun Hannah Moon\
