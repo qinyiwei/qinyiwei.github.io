@@ -15,11 +15,11 @@ I am currently a research assistant at GAIR Lab at Shanghai Jiao Tong University
 # Publications
 -[O1 Replication Journey: A Strategic Progress Report--Part 1](https://arxiv.org/abs/2410.18982)\
 **Yiwei Qin**, Xuefeng Li, Haoyang Zou, Yixiu Liu, Shijie Xia, Zhen Huang, Yixin Ye, Weizhe Yuan, Hector Liu, Yuanzhi Li, and Pengfei Liu \
-arXiv
+arXiv, 2024
 
 -[O1 replication journey – part 2: Surpassing o1-preview through simple distillation, big progress or bitter lesson?](https://arxiv.org/abs/2411.16489)\
 Zhen Huang, Haoyang Zou, Xuefeng Li, Yixiu Liu, Yuxiang Zheng, Ethan Chern, Shijie Xia, **Yiwei Qin**, Weizhe Yuan, and Pengfei Liu \
-arXiv
+arXiv, 2024
 
 -[OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI](https://arxiv.org/abs/2406.12753)\
 Zhen Huang, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, Yuqing Yang, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, Steffi Chern, **Yiwei Qin**, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang, Dahua Lin, Yu Qiao, Pengfei Liu \
@@ -35,7 +35,7 @@ EMNLP Findings, 2023
 
 -[Searching for Effective Tuning Strategies for Multilingual Summarization](https://arxiv.org/abs/2212.05740)\
 **Yiwei Qin**, Graham Neubig, Pengfei Liu\
-arXiv
+arXiv, 2024
 
 -[Automating Claim Construction in Patent Applications: The CMUmine Dataset](https://aclanthology.org/2021.nllp-1.21.pdf)\
 Ozan Tonguz, **Yiwei Qin**, Yimeng Gu, Hyun Hannah Moon\
