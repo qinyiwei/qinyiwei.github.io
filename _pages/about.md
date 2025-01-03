@@ -13,6 +13,10 @@ I am currently a research assistant at GAIR Lab at Shanghai Jiao Tong University
 
 
 # Publications
+-[DIVE: Diversified Iterative Self-Improvement](https://arxiv.org/abs/2501.00747)\
+**Yiwei Qin**, Yixiu Liu, Pengfei Liu \
+arXiv, 2024
+
 -[O1 Replication Journey: A Strategic Progress Report--Part 1](https://arxiv.org/abs/2410.18982)\
 **Yiwei Qin**, Xuefeng Li, Haoyang Zou, Yixiu Liu, Shijie Xia, Zhen Huang, Yixin Ye, Weizhe Yuan, Hector Liu, Yuanzhi Li, and Pengfei Liu \
 arXiv, 2024
