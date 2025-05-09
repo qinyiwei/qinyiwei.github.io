@@ -13,9 +13,13 @@ I am currently a research assistant at GAIR Lab at Shanghai Jiao Tong University
 
 
 # Publications
+-[Generative AI Act II: Test Time Scaling Drives Cognition Engineering](https://arxiv.org/abs/2504.13828)\
+Shijie Xia, **Yiwei Qin**, Xuefeng Li, Yan Ma, Run-Ze Fan, Steffi Chern, Haoyang Zou, Fan Zhou, Xiangkun Hu, Jiahe Jin, Yanheng He, Yixin Ye, Yixiu Liu, Pengfei Liu
+arXiv, 2025
+
 -[DIVE: Diversified Iterative Self-Improvement](https://arxiv.org/abs/2501.00747)\
 **Yiwei Qin**, Yixiu Liu, Pengfei Liu \
-arXiv, 2024
+arXiv, 2025
 
 -[O1 Replication Journey: A Strategic Progress Report--Part 1](https://arxiv.org/abs/2410.18982)\
 **Yiwei Qin**, Xuefeng Li, Haoyang Zou, Yixiu Liu, Shijie Xia, Zhen Huang, Yixin Ye, Weizhe Yuan, Hector Liu, Yuanzhi Li, and Pengfei Liu \
