@@ -13,16 +13,16 @@ I am currently a PHD Student at Shanghai Jiao Tong University, working with Prof
 
 
 # Publications
--[daVinci-LLM:Towards the Science of Pretraining](https://arxiv.org/abs/2603.27164)
-**Yiwei Qin**, Yixiu Liu, Tiantian Mi, Muhang Xie, Zhen Huang, Weiye Si, Pengrui Lu, Siyuan Feng, Xia Wu, Liming Liu, Ye Luo, Jinlong Hou, Qipeng Guo, Yu Qiao, Pengfei Liu
+-[daVinci-LLM:Towards the Science of Pretraining](https://arxiv.org/abs/2603.27164)\
+**Yiwei Qin**, Yixiu Liu, Tiantian Mi, Muhang Xie, Zhen Huang, Weiye Si, Pengrui Lu, Siyuan Feng, Xia Wu, Liming Liu, Ye Luo, Jinlong Hou, Qipeng Guo, Yu Qiao, Pengfei Liu\
 arXiv, 2026
 
--[Data Darwinism Part II: DataEvolve -- AI can Autonomously Evolve Pretraining Data Curation](https://arxiv.org/abs/2603.14420)
-Tiantian Mi, Dongming Shan, Zhen Huang, **Yiwei Qin**, Muhang Xie, Yuxuan Qiao, Yixiu Liu, Chenyang Zhou, Pengfei Liu
+-[Data Darwinism Part II: DataEvolve -- AI can Autonomously Evolve Pretraining Data Curation](https://arxiv.org/abs/2603.14420)\
+Tiantian Mi, Dongming Shan, Zhen Huang, **Yiwei Qin**, Muhang Xie, Yuxuan Qiao, Yixiu Liu, Chenyang Zhou, Pengfei Liu\
 arXiv, 2026
 
--[Data Darwinism Part I: Unlocking the Value of Scientific Data for Pre-training](https://arxiv.org/abs/2602.07824)
-**Yiwei Qin**, Zhen Huang, Tiantian Mi, Weiye Si, Chenyang Zhou, Qipeng Guo, Siyuan Feng, Pengfei Liu
+-[Data Darwinism Part I: Unlocking the Value of Scientific Data for Pre-training](https://arxiv.org/abs/2602.07824)\
+**Yiwei Qin**, Zhen Huang, Tiantian Mi, Weiye Si, Chenyang Zhou, Qipeng Guo, Siyuan Feng, Pengfei Liu\
 arXiv, 2026 (short version accepted at ACL Main 2026 as "SciPedia: Unlocking the Value of Scientific Data for Pre-training")
 
 -[Generative AI Act II: Test Time Scaling Drives Cognition Engineering](https://arxiv.org/abs/2504.13828)\
