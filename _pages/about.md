@@ -8,11 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant at GAIR Lab at Shanghai Jiao Tong University, working with Professor [Pengfei Liu](https://scholar.google.com/citations?user=oIz_CYEAAAAJ&hl=en&oi=ao). I received my B.E. in Electronic Engineering from Tsinghua University and my M.S. in Electrical and Computer Engineering from Carnegie Mellon University, where I worked with Professor [Graham Neubig](https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=en&oi=ao). 
+I am currently a PHD Student at Shanghai Jiao Tong University, working with Professor [Pengfei Liu](https://scholar.google.com/citations?user=oIz_CYEAAAAJ&hl=en&oi=ao). I received my B.E. in Electronic Engineering from Tsinghua University and my M.S. in Electrical and Computer Engineering from Carnegie Mellon University, where I worked with Professor [Graham Neubig](https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=en&oi=ao). My research interests lie in LLM pretraining and data engineering. I am currently focused on open and transparent pretraining at progressively larger scale, including dense and MoE architectures.
 
 
 
 # Publications
+-[daVinci-LLM:Towards the Science of Pretraining](https://arxiv.org/abs/2603.27164)
+**Yiwei Qin**, Yixiu Liu, Tiantian Mi, Muhang Xie, Zhen Huang, Weiye Si, Pengrui Lu, Siyuan Feng, Xia Wu, Liming Liu, Ye Luo, Jinlong Hou, Qipeng Guo, Yu Qiao, Pengfei Liu
+arXiv, 2026
+
+-[Data Darwinism Part II: DataEvolve -- AI can Autonomously Evolve Pretraining Data Curation](https://arxiv.org/abs/2603.14420)
+Tiantian Mi, Dongming Shan, Zhen Huang, **Yiwei Qin**, Muhang Xie, Yuxuan Qiao, Yixiu Liu, Chenyang Zhou, Pengfei Liu
+arXiv, 2026
+
+-[Data Darwinism Part I: Unlocking the Value of Scientific Data for Pre-training](https://arxiv.org/abs/2602.07824)
+**Yiwei Qin**, Zhen Huang, Tiantian Mi, Weiye Si, Chenyang Zhou, Qipeng Guo, Siyuan Feng, Pengfei Liu
+arXiv, 2026 (short version accepted at ACL Main 2026 as "SciPedia: Unlocking the Value of Scientific Data for Pre-training")
+
 -[Generative AI Act II: Test Time Scaling Drives Cognition Engineering](https://arxiv.org/abs/2504.13828)\
 Shijie Xia, **Yiwei Qin**, Xuefeng Li, Yan Ma, Run-Ze Fan, Steffi Chern, Haoyang Zou, Fan Zhou, Xiangkun Hu, Jiahe Jin, Yanheng He, Yixin Ye, Yixiu Liu, Pengfei Liu
 arXiv, 2025
